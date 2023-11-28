@@ -1,0 +1,29 @@
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.exe
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.deps.json
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.runtimeconfig.json
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.dll
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.pdb
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.AssemblyInfo.cs
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.dll
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\refint\Kindle.dll
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.pdb
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.genruntimeconfig.cache
+C:\Users\ACER\Desktop\UNIVERSIDAD\Estructura de Datos\Kindle\obj\Debug\net6.0\ref\Kindle.dll
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.exe
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.deps.json
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.runtimeconfig.json
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.dll
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\bin\Debug\net6.0\Kindle.pdb
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.AssemblyInfo.cs
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.dll
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\refint\Kindle.dll
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.pdb
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\Kindle.genruntimeconfig.cache
+D:\UNIVERSIDAD\TERCER SEMESTRE\Estructura de Datos\Kindle\obj\Debug\net6.0\ref\Kindle.dll
